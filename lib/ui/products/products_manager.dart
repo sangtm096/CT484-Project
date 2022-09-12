@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 
 import '../../models/product.dart';
 
-class ProductManager {
+class ProductsManager {
   final List<Product> _items = [Product(
       id: 'p1',
       title: 'Red Shirt',
